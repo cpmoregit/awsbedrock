@@ -5,3 +5,5 @@ AWS BedRock is the platform for building generative AI applications and agents a
 The core capabilities you need for building production AI in one platform.
 
 <img src="aws-berock-capabilities.png" alt="isolated" />
+
+### Model and Infrastructure
