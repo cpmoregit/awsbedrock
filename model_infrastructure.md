@@ -6,7 +6,7 @@ AWS Bedrock gives you managed access to multiple Foundation Models (FMs) through
 It also provides an ability to swap models in and out without rewriting code, 
 
 ### Model selection decision tree
-<pre></pre>
+<pre>
 •  Need reasoning → Claude
 •  Need embeddings → Titan
 •  Need open‑weight → Llama
