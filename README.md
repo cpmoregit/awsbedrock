@@ -6,4 +6,4 @@ The core capabilities you need for building production AI in one platform.
 
 <img src="aws-berock-capabilities.png" alt="isolated" />
 
-[Model and Infrastructure] ("model_infrastructure.md")
+[Model and Infrastructure](https://github.com/cpmoregit/awsbedrock/blob/main/model_infrastructure.md)
